@@ -1,0 +1,11 @@
+com/CTmall/mapper/TbItemParamMapper.class
+com/CTmall/mapper/TbOrderItemMapper.class
+com/CTmall/mapper/TbItemParamItemMapper.class
+com/CTmall/mapper/TbItemCatMapper.class
+com/CTmall/mapper/TbOrderMapper.class
+com/CTmall/mapper/TbUserMapper.class
+com/CTmall/mapper/TbItemMapper.class
+com/CTmall/mapper/TbContentCategoryMapper.class
+com/CTmall/mapper/TbContentMapper.class
+com/CTmall/mapper/TbItemDescMapper.class
+com/CTmall/mapper/TbOrderShippingMapper.class
